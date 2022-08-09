@@ -1,2 +1,2 @@
-# SoftwareEngAssignmentpart1
-first part of assignment
+# SoftwareEngAssignment
+Open cs file in compiler to run
